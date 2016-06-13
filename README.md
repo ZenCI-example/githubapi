@@ -20,6 +20,8 @@ When issue #8 will be implemented, I am going to release Beta1.
     There is two way to do so. 
     - Via your profile: https://github.com/settings/applications/new
     - Via your organization profile: https://github.com/organizations/ORGNAME/settings/applications/new
+    
+    You need to setup 'Authorization callback URL' to http://yourdomain/githubapi/register
   
   - Save settings on admin/config/system/githubapi/settings
   
